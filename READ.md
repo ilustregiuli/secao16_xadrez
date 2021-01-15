@@ -1,1 +1,1 @@
-# secao16_xadrez
+# Play Chess in Java!
